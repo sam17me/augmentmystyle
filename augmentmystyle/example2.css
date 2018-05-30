@@ -1,0 +1,29 @@
+breakfast_menu{
+	background-color: lightsteelblue;
+	display:block;
+	padding: 10px;
+	font-family: sans-serif;
+	width:50%;
+	height:auto;
+}
+food{
+	background-color: chartreuse;
+	border: 2px solid black;
+	display: block;
+	margin-bottom: 10px
+	
+	
+}
+name{
+	font-weight:bold;
+	display:block;
+}
+price{
+	display:block;
+}
+description{
+	display:block;
+}
+calories{
+	display:block;
+}
